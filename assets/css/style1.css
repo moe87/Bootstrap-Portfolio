@@ -1,0 +1,158 @@
+.navbar-brand {
+  background-color: #4aaaa5;
+  margin-left: 8%;
+  font-size: 50px;
+  color: #fff;
+}
+.card {
+  margin-bottom: 200px;
+  margin-left: 100px;
+  margin-top: 100px;
+  height: 800px;
+}
+.navbar {
+  background-color: white;
+  border: none;
+
+}
+.collapse {
+  margin-left: 40%;
+}
+#catimg {
+  margin-right: 20px;
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+.card-header {
+  font-size: 40px;
+  color: #4aaaa5;
+}
+#cardRow { 
+  margin-top: 70px;
+  width: 1500px;
+  margin-left: 50px;
+}
+body {  
+  background-size: cover;
+  background-image: url("../images/road-landscape-nature-490411.jpg");
+  background-repeat: no-repeat;
+
+
+}
+.footer { bottom: -400;
+background-color: gray;
+position: absolute;
+width: 100%;
+text-align: center;
+height: 50px;
+margin: 0%;
+}
+
+h1 {
+  font-size: 10px;
+  padding-top: 10px;
+}
+.formgroup {
+  margin-top: 300px;
+}
+
+form {
+    height: 800px;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 400px;
+    margin-bottom: 300px;
+    background-color: white;
+}
+label {
+  margin-left: 100px;
+  margin-top: 100px
+
+
+}
+input {
+  margin-left: 100px;
+  
+}
+.form-control {
+
+  width: 60%;
+  margin-right: 300px;
+}
+.btn {
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 107px;
+  background-color: turquoise
+}
+.form-control3 { margin-bottom: 100px
+
+}
+header {
+  text-decoration: underline;
+  color: turquoise;
+  font-size: 40px;
+  margin-left: 100px;
+}
+#exampleInputMessage1 {
+  padding-bottom: 100px;
+}
+.card {
+  width: 600px;
+  height: 700px;
+}
+.card-body {
+  background-color:white;
+  background-size: cover;
+  height: 300px;  
+}
+header1 {
+  margin-left: 100px;
+  font-size: 40px;
+  color: turquoise;
+}
+.rounded-top {
+  width: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  float: right;
+  margin-top: -185px;
+}
+.rounded  { 
+  width: 250px;
+  margin-left: 330px;
+  margin-top: 20px;
+  float: left;
+
+}
+  .rounded-right {
+  width: 250px;
+  margin-left: 330PX;
+  margin-top: 20px;
+  float: right;
+
+
+}
+.rounded-bottom {
+  width: 250px;
+  margin-left: 20px;
+  margin-top: -185px;
+  float: left;
+
+}
+.flex {  
+  width: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  float: left;
+
+}
+
+.margin-top-5 {
+  margin-top: 5%;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5%;
+}
